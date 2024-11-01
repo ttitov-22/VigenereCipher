@@ -36,7 +36,8 @@ def decrypt_vigenere(cipher_text, key, alphabet):
     return "".join(original_text)
 
 # Выбор алфавита
-alphabet = "АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюя1234567890ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz.,;:!?/()[]<>@#$%^&*' "
+alphabet = """АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюя
+            1234567890ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz.,;:!?/()[]<>@#$%^&*' """
 
 while True:    
     text = input("Введите текст шифра (или 'q' для выхода): ")
