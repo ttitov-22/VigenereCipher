@@ -14,7 +14,7 @@
 
 ## Инструкция по установке
 
-1. **Скачайте исполняемый файл**: [скачать vigenere_cipher.exe](https://github.com/ttitov-22/VigenereCipher/releases/latest/download/vigenere_cipher.exe).
+1. **Скачайте исполняемый файл**: [скачать vigenere_cipher.exe](https://github.com/ttitov-22/VigenereCipher/blob/main/releases/vigenere-cipher.exe).
 2. **Запустите программу** двойным щелчком на файле `vigenere_cipher.exe`.
 
 ## Инструкция по сборке
